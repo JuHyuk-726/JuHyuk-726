@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My Special Repository
 
-<!--
-**JuHyuk-726/JuHyuk-726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, and welcome to my special repository!  
+Here you will find my projects, ideas, and work related to [specific topic or interest].
 
-Here are some ideas to get you started:
+## About This Repository
+This repository contains various projects that showcase my skills and experiments in **Information Security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What's Inside:
+- **Project 1:** Web Vulnerability Scanner
+- **Project 2:** Network Traffic Analyzer
+- **Project 3:** Password Strength Evaluator
+
+## 🛠️ Tools & Technologies
+- **Programming Languages:** Python, C, C++
+- **Frameworks:** 
+- **Tools:** Git
+
+## 📫 Contact Me
+- GitHub: [@JuHyuk-726](https://github.com/JuHyuk-726)
+- Email: yunyj0726@gmail.com
+
+Feel free to reach out if you have any questions or would like to collaborate!
